@@ -1,4 +1,6 @@
-# Awesome Hong Kong
+
+
+Awesome Hong Kong
 Resource for Hong Kong Freedom
 
 香港反送中相關資源整合，如果想参舉或有資源想加入請到 Issues 留言。
@@ -26,3 +28,4 @@ Resource for Hong Kong Freedom
 
 ## Creative
 - [文宣設計收集](https://www.pinterest.com/jonsnow0867/hong-kong/) - Pinterest
+- [反送中音樂台](https://www.youtube.com/playlist?list=PL6tXiAedAhj3woJG8JVukr6b7vnMr1iu9) - Youtube Channel
