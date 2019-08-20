@@ -9,7 +9,7 @@ Resource for Hong Kong Freedom
 - [Fight for Freedom](https://standwithhk.org/) - 攬炒巴團隊
 - [Free Hong Kong](https://freedomhkg.net/)- 眾籌登報團隊
 - [Freedom-Hi](https://hkrev.inf) - 新聞，Timeline
-- [反送中直播](https://freehk.live/)
+- [反送中綜合直播](https://freehk.live/) - 多台同步直播網
 - [香港民運資訊](https://103.hk/) - 即時地圖，有用資訊
 - [香港反送中運動記事錄](https://www.hkebill.com/)
 - [送中條例資訊整理](https://beta.hackfoldr.org/extradition) - g0vhk
