@@ -6,12 +6,13 @@ Resource for Hong Kong Freedom
 香港反送中相關資源整合，如果想参舉或有資源想加入請到 Issues 留言。
 
 ## Website
+- [Fight for Freedom](https://standwithhk.org/) - 攬炒巴團隊
 - [Free Hong Kong](https://freedomhkg.net/)- 眾籌登報團隊
 - [Freedom-Hi](https://hkrev.inf) - 新聞，Timeline
-- [送中條例資訊整理](https://beta.hackfoldr.org/extradition) - g0vhk
+- [反送中直播](https://freehk.live/)
 - [香港民運資訊](https://103.hk/) - 即時地圖，有用資訊
 - [香港反送中運動記事錄](https://www.hkebill.com/)
-- [Fight for Freedom](https://standwithhk.org/) - 攬炒巴團隊
+- [送中條例資訊整理](https://beta.hackfoldr.org/extradition) - g0vhk
 
 ## Timeline
 - [Hong Kong Timeline](https://www.tiki-toki.com/timeline/entry/1273579/Hong-Kong-Timeline/) - 抗爭時序
