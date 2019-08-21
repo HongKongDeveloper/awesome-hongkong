@@ -23,7 +23,8 @@ Resource for Hong Kong Freedom
 - [612人道援基金](https://612fund.hk) - 法律援助
 
 ## Tools
-- [發夢罷食App](https://lihkg.com/thread/1435236) - 罷食地圖
+- [WhatsGap](https://lihkg.com/thread/1435236) - 發夢罷食App
+- [議事速查](https://lihkg.com/thread/1394855) - 立法會資料App
 
 ## Shop
 - [香港保護](https://hkprotect.org/) - 裝備店
