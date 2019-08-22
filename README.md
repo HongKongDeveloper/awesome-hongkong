@@ -11,9 +11,9 @@ Resource for Hong Kong Freedom
 - [Freedom-Hi](https://hkrev.inf) - 新聞，Timeline
 - [反送中綜合直播](https://freehk.live/) - 多台同步直播網
 - [香港民運資訊](https://103.hk/) - 即時地圖，有用資訊
-- [香港反送中運動記事錄](https://www.hkebill.com/)
-- [送中條例資訊整理](https://beta.hackfoldr.org/extradition) - g0vhk
-- [香城online整合版](https://beta.hackfoldr.org/hongkongonline)
+- [香港反送中運動記事錄](https://www.hkebill.com/) - 眾籌登Google廣告
+- [送中條例資訊整理](https://beta.hackfoldr.org/extradition) - g0vhk團隊
+- [香城online](https://beta.hackfoldr.org/hongkongonline) - 整合版
 
 ## Timeline
 - [香港反修例運動時序記錄](https://hkontheroad.org/) - 蒐集整合各媒體及民間資訊以時序及影像記錄 2019 年香港反修例運動
